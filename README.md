@@ -1,1 +1,1 @@
-# QT-Drawing-using-a-painter
+# QT-Drawing-using-QPainter
